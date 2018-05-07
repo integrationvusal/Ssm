@@ -1,0 +1,37 @@
+body {
+	background-color: #F0F0EE;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.next_prev {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 25px;
+	height: 25px;
+}
+
+.preview_image {
+	text-align: center;
+}
+
+a:link	{  
+	font-size: 12px; 
+	color: #000000; 
+	text-decoration: underline;
+}
+
+a:active	{  
+	text-decoration: underline;
+}
+
+a:visited	{  
+	text-decoration: underline;
+}
+
+a:hover	{  	
+	text-decoration: underline;
+}

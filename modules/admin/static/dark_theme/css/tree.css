@@ -1,0 +1,58 @@
+/* Common Styles */
+html {
+	height: 100%;
+    overflow-y: scroll;
+}
+form,p,ul,li {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-family: Arial, Tahoma, Verdana, "Times New Roman", sans-serif;
+	font-size: 13px;
+	color: #424242;
+	background: #fff;
+}
+img {
+	border: 0;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+.text-center {
+    text-align: center;
+}
+.width100 {
+	width: 100%;
+}
+.absolute {
+	position: absolute;
+}
+.relative {
+	position: relative;
+}
+.hide {
+	display: none;
+}
+/* Common Styles end */
+
+/* Tree */
+.tree-item-container {
+	cursor: pointer;
+}
+/* Tree end */
+
+
+

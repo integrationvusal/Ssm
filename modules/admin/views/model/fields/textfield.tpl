@@ -1,0 +1,1 @@
+<div class="field-container textfield-div {if isset($htmlCss.class)}{$htmlCss.class}{/if}">	<div class="left field-title">		{$title} {if isset($lang) && !empty($lang)}[{$lang}]{/if}	</div>	<div class="right">		<input type="text" name="{$name}" value="{$value}" class="textfield-input field" />	</div>	<div class="clear"></div></div>

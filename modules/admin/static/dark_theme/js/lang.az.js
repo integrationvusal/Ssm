@@ -1,0 +1,13 @@
+var Lang = [];
+Lang['close'] = 'Bağla';
+Lang['ready_to_delete'] = 'Silməyə əminisiniz?';
+Lang['info'] = 'Məlumat';
+Lang['file_selected'] = 'seçildi';
+Lang['date_changed'] = 'Tarix dəyişildi';
+Lang['az'] = 'Azərbaycan';
+Lang['en'] = 'İngilis';
+Lang['ru'] = 'Rus';
+Lang['filled_not_correct'] = 'düzgün doldurulmayıb';
+Lang['in_lang'] = 'dilində';
+Lang['error'] = 'Səhv';
+Lang['saved'] = 'Yadda saxlanıldı';

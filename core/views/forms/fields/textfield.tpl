@@ -1,0 +1,1 @@
+<div class="form-field-container textfield-div">	<div class="left form-field-title">		{$title}:	</div>	<div class="right form-field-own">		<input type="text" name="{$name}" class="textfield-input field" />	</div>	<div class="clear"></div></div>

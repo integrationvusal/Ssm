@@ -1,0 +1,5 @@
+.idea
+/public/*
+/templates_c/*
+!/logs/
+/logs/*
